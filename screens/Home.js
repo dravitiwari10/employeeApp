@@ -12,7 +12,6 @@ const Home = ({navigation})=>{
         // {id:5,name:'Mukesh kumar',position:'web-dev'},
         // {id:6,name:'Ravi Shankar',position:'react-dev'},
         // {id:7,name:'Abhay Raj',position:'android-dev'},
-        // {id:8,name:'Harry potter',position:'python-dev'},
     ]
     const renderList = ((item)=>{
         return(
